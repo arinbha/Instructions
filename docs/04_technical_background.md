@@ -1,7 +1,27 @@
 # Technical Background
 
 ## Navigating Enterprise Codebase
-Lorem ipsum
+When you work on an enterprise codebase for the first time,
+often times there are many different files and dependencies, and it
+can be overwhelming to understand how the entire system works. However,
+there are many tools at your disposal to get up-to-speed.
+
+In most companies, there will typically be a ``README`` or some other
+documentation guide explaining the structure and goals of the codebase.
+As an intern, one of your first jobs should be to sit down and read the entire
+documentation guide at least several times *cover to cover* and take detailed
+notes and questions about things you don't understand. Not only does this show
+that you are taking the job seriously, you will also gain insight into how corporate
+software works and learn how to structure your own codebases in the future.
+
+Another great practice when navigating a new codebase is to experiment with
+it yourself. As part of your onboarding setup, you should have created a 
+local testing environment to simulate how consumers and/or internal users
+interact with your code.
+
+**Pro Tip**: As you experiment with the codebase to see how the different parts interact,
+write a document for yourself with short summaries explaining *in your own words* what the 
+functions within the file are doing and how it contributes to the overall design. 
 
 ## Git
 Most companies will have some sort of version control system for their
@@ -74,7 +94,7 @@ be an edge case that you hadn't considered or a different approach that might wo
 you should focus on making sure that you understand the changes requested and make a note of them
 so that you don't repeat the mistakes in the future.
 
-One pro tip is to keep a separate document to write down every major comment that you received in a 
+**Pro Tip:** Keep a separate document to write down every major comment that you received in a 
 code review and reference it periodically to ensure that you are following your team's best practices
 and avoid making the same mistakes repeatedly.
 
