@@ -19,7 +19,10 @@ it yourself. As part of your onboarding setup, you should have created a
 local testing environment to simulate how consumers and/or internal users
 interact with your code.
 
-**Pro Tip**: As you experiment with the codebase to see how the different parts interact,
+<span style="background-color: yellow;">
+**Pro Tip:**
+</span>
+As you experiment with the codebase to see how the different parts interact,
 write a document for yourself with short summaries explaining *in your own words* what the 
 functions within the file are doing and how it contributes to the overall design. 
 
@@ -94,7 +97,10 @@ be an edge case that you hadn't considered or a different approach that might wo
 you should focus on making sure that you understand the changes requested and make a note of them
 so that you don't repeat the mistakes in the future.
 
-**Pro Tip:** Keep a separate document to write down every major comment that you received in a 
+<span style="background-color: yellow;">
+**Pro Tip:**
+</span>
+Keep a separate document to write down every major comment that you received in a 
 code review and reference it periodically to ensure that you are following your team's best practices
 and avoid making the same mistakes repeatedly.
 
