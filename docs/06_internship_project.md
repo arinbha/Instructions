@@ -19,7 +19,7 @@ for tackling problems, but not so challenging as though you are overwhelemed wit
 the project expectations.
 
 Throughout the course of your internship, you should schedule progress checkins on
-a weekly or biweekly basis to troubleshoot sticky points and make updates to the 
+a weekly basis to troubleshoot sticky points and make updates to the 
 timeline as needed.
 
 ## Design Document
@@ -43,7 +43,10 @@ interact, etc.). The specifics of what questions you should address will vary
 depending on your specific project, but you want to give enough detail to
 explain how your system interacts so that other teammates will be able to 
 understand and build on top of your work after your internship. 
-    + **Pro Tip:** Use diagrams! They are a great way to show the end-to-end
+    - <span style="background-color: yellow;">
+**Pro Tip:**
+</span>
+Use diagrams! They are a great way to show the end-to-end
     design and are more digestible than prose. We recommend using [Lucid Charts](https://www.lucidchart.com/pages)
     to make your diagrams
 4. **Alternative Designs & Pros + Cons:** Often times, there is more than one solution to a problem, and
