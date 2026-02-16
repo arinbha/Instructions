@@ -50,6 +50,16 @@ with and is one of the most prevalent across enterprise codebases.
  - ``git pull``: Brings changes that were made from the remote
  repository into the local repository.
 
+<p>
+<div style="text-align: center;">
+  <img src="../assets/commit.svg" alt="Description of the image">
+  <i>
+   Files are added to the commit, and their changes are recorded
+   in a linear history.
+  </i>
+</div>
+</p>
+
 A typical workflow should typically contain the following steps:
 
  1. Pull changes with ``git pull``
@@ -63,6 +73,17 @@ paths to work on changes that are independent of one another. When working
 with a large codebase such as during an internship, it is recommended to create a
 separate branch for each independent feature that you are working on.
 
+<p>
+<div style="text-align: center;">
+  <img src="../assets/branch.svg" alt="Description of the image">
+  <i>
+   Branches are created as history off the main branch for each individual feature.
+  </i>
+</div>
+</p>
+
+
+
 To create a new branch, use the following command: ``git checkout -b NAME_OF_BRANCH``.
 This spawns a new branch from the commit point that you are already at, and then you 
 can independently add new commits onto this branch without affecting the pre-exisiting
@@ -74,6 +95,18 @@ changes to the codebase that you will need to design your code around. To avoid 
 problems where the status of your code differs significantly from the existing master branch, 
 you should periodically refresh your branch with the latest changes from the master branch, which we 
 call rebasing. 
+
+<p>
+<div style="text-align: center;">
+  <img src="../assets/rebase.svg" alt="Description of the image">
+  <i>
+   Rebasing incorporates the commits that were pushed to the main branch since you created your
+   feature branch by putting your commits on the top of the history.
+  </i>
+</div>
+</p>
+
+
 
 To rebase the master code onto your branch, use the following steps:
 
@@ -89,6 +122,16 @@ into the main repository. However, in a corporate setting, you should **NEVER** 
 to push directly into ``master``, as your changes need to be reviewed by someone on your
 team. Instead, you would create a pull request, signifying that your changes are ready for
 review to be merged into the master branch.
+
+<p>
+<div style="text-align: center;">
+  <img src="../assets/pr.svg" alt="Description of the image">
+  <i>
+   Pull requests mark your work ready for review for other teammates to view.
+  </i>
+</div>
+</p>
+
 
 Depending on the scope of your changes, your reviewer may either approve the changes or leave
 comments and request a revision. It's completely normal for your changes to be rejected at
@@ -116,3 +159,7 @@ Google Gemini, **should not** be used
 for company work due to privacy regulations. Instead, you should use
 internal models within your company that are approved by Corporate
 Security
+
+---
+All images for Git are from Atlassian's official guide to git:
+<a href="https://www.atlassian.com/git/tutorials">Link</a>
