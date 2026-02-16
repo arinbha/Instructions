@@ -21,6 +21,8 @@ if they deviate from this guide.
 <div style="text-align: center;">
   <img src="assets/intro.png" alt="Description of the image">
   <figcaption>
-    <a href="https://alexeymk.com/a-brief-guide-to-tech-internships/">Source</a>
+    <i>
+    <a href="https://alexeymk.com/a-brief-guide-to-tech-internships/">The Differences Between the Internship and the Job</a>
+    </i>
   </figcaption>
 </div>

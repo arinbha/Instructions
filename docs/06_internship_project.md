@@ -55,6 +55,16 @@ Briefly outline what altneratives you had and why they aren't as effective in yo
 5. **Appendices:** Include data sources, graphs, and other information that is needed that you did not 
 include in the above sections.
 
+<p>
+<div style="text-align: center;">
+  <img src="../assets/lucid.png" alt="Description of the image">
+  <figcaption>
+  <i>
+    <a href="https://www.lucidchart.com/pages/architecture-diagram/">Sample Lucid Chart Outlining System Architecture</a>
+    </i>
+  </figcaption>
+</div>
+</p>
 You should aim to finish your design document draft before the halfway point of your internship. Once complete,
 you should schedule a meeting with your entire team to present your document. Often times, this is where you 
 will get new suggestions or concerns that you may not have considered earlier and will need to incorporate
