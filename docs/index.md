@@ -7,13 +7,13 @@ regarding what to do once you've signed the offer. This guide is intended to off
 into the process afterwards, from securing housing to your first day on the job and working on
 your internship project.
 
-With the current state of the market, doing well in an internship and securing a Return Offer is 
+With the current state of the market, doing well in an internship and securing a return offer is 
 one of the primary ways that students get full-time jobs upon graduation, so this guide is intended
 to help you put your best foot forward throughout your time at your company.
 
 **DISCLAIMER:** This guide is intended for a large audience, and may thus not include specific
 things required at your company. We do not guarantee that following this guide will give you a
-Return Offer. All interns should consult with their managers for best practices and follow those
+return offer. All interns should consult with their managers for best practices and follow those
 if they deviate from this guide.
 
 

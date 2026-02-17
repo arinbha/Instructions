@@ -11,11 +11,14 @@ a written agenda with the items that you wish to discuss and prepared questions 
 
 For a typical 1:1, we recommend the following structure: 
 
-1. **Progress Update:** What have you worked on since your last meeting?
+1. **Progress Update:** What have you worked on since your last meeting? If you can't meet in person,
+you should still send this via Slack or email.
 2. **Blockers:** What are things that are currently blocking your progress?
 This should not just be a laundry list, but you should give concrete reasons why they
-are blocking your progrss and what you are actively doing to resolve them. 
+are blocking your progrss and what you are actively doing to resolve them.
 3. **Upcoming Plans:** What do you plan on working on between now and your next meeting?
+4. **Questions You Have** As an intern, you are not expected to always know everything, so it's good
+to keep track of questions you want to ask.
 
 <span style="background-color: yellow;">
 **Pro Tip:**
@@ -25,9 +28,9 @@ synced on progress and perception of how your internship is going. Don't be afra
 feedback proactively before formal evaluations. If your manager does give you something to improve on,
 asking beforehand gives you time to work on it and show coachability before the final evaluation.
 
-## Working with Teammates + Asking for Help
+## Working with Teammates
 While most of your time will be spent working on your individual project, another goal of your internship
-is to learn more about how a software engineering team operates. Most Return Offers are for the same team
+is to learn more about how a software engineering team operates. Most return offers are for the same team
 that you interned on, so your teammates will also likely have a say in your evaluation.
 
 To that end, here a few ground rules for working with your team:
@@ -42,7 +45,7 @@ to clarify concepts as long as you do so in a respectful manner.
 3. **Take part in social events:** Throughout your internship, you are a member of the team as well. To that end,
 you should aim to take part in team socials or other bonding events throughout the summer.
 
-
+## Asking for Help
 Over the course of your project, you will also likely encounter moments where you are stuck and are unsure 
 of how to proceed. While this is perfectly normal, the important thing is to get yourself stuck ASAP and not 
 sit around twiddling your thumbs until someone notices and offers to help. Be proactive.
