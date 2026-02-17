@@ -4,27 +4,25 @@
 When you work on an enterprise codebase for the first time,
 often times there are many different files and dependencies, and it
 can be overwhelming to understand how the entire system works. However,
-there are many tools at your disposal to get up-to-speed.
+there are several tools at your disposal to get up-to-speed:
 
-In most companies, there will typically be a ``README`` or some other
+ - Usually, there will be a ``README`` or other
 documentation guide explaining the structure and goals of the codebase.
-As an intern, one of your first jobs should be to sit down and read the entire
-documentation guide at least several times *cover to cover* and take detailed
+Read the entire documentation guide *cover to cover* and take detailed
 notes and questions about things you don't understand. Not only does this show
 that you are taking the job seriously, you will also gain insight into how corporate
 software works and learn how to structure your own codebases in the future.
 
-Another great practice when navigating a new codebase is to experiment with
-it yourself. As part of your onboarding setup, you should have created a 
+ - Experiment with the codebase yourself. As part of your onboarding setup, you should create a 
 local testing environment to simulate how consumers and/or internal users
 interact with your code.
 
-<span style="background-color: yellow;">
-**Pro Tip:**
-</span>
-As you experiment with the codebase to see how the different parts interact,
-write a document for yourself with short summaries explaining *in your own words* what the 
-functions within the file are doing and how it contributes to the overall design. 
+  - <span style="background-color: yellow;">
+  **Pro Tip:**
+  </span>
+  As you experiment with the codebase to see how the different parts interact,
+  write a document for yourself with short summaries explaining *in your own words* what the 
+  functions within the file are doing and how it contributes to the overall design. 
 
 ## Git
 Most companies will have some sort of version control system for their
@@ -161,5 +159,4 @@ internal models within your company that are approved by Corporate
 Security
 
 ---
-All images for Git are from Atlassian's official guide to git:
-<a href="https://www.atlassian.com/git/tutorials">Link</a>
+<a href="https://www.atlassian.com/git/tutorials">All images for Git are from Atlassian's official guide to git</a>
