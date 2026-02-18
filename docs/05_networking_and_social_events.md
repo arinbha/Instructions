@@ -28,7 +28,13 @@ way to approach colleagues relative to email. Although email is still a good opt
 that is your colleagues preferred way of communication.
 Here is a sample Slack message template that you can use:
 
->> Hi, [Name]! I’m a summer intern on [Team]. I saw you work on [Project/Area] and it seems really interesting. If you have time, I’d love to set up a quick 15-minute chat to learn more about what you do.
+> Hi, [Name]! 
+
+> I’m a summer intern on [Team]. I saw your work on [Project/Area] and it seems really interesting. If you have time, I’d love to set up a quick 15-minute chat to learn more about what you do.
+
+> Best,
+
+> [Your Name]
 
 Most people will say yes, and, if they don't, the worst thing they can do is ignore you.
 The benefits outweight the negatives.
