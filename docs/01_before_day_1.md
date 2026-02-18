@@ -14,34 +14,72 @@ Once you have answered those questions, you will have a better idea on whether y
 offer or not. If this is your only offer, you might choose to take it no matter your answers. It is still
 useful to consider those details to have a better understanding of the company you will be working for.
 
-### How to Accept an Internship Offer
+To accept the offer, you can email the hiring manager following this template:
 
-To accept the offer, you can email the hiring manager following these guidelines:
+"""
+Hi [Name],
+Thank you again for the offer for the [Role] internship position at [Company]. I’m excited to accept the offer and look forward to joining the team this Summer.
 
-TKTK
+Please let me know if there are any next steps or documents I should complete before my start date.
 
-### How to Reject an Internship Offer
+Best,
+[Your Name]
+"""
 
-To reject the offer, you can email the hiring manager following these guidelines:
+To reject the offer, you can email the hiring manager following this template:
 
-TKTK
+"""
+Hi [Name],
+Thank you again for offering me the [Role] internship position at [Company]. I truly appreciate the time you and the team spent speaking with me.
+
+After careful consideration, I’ve decided to pursue another opportunity and will not be able to accept the offer. I’m very grateful for the offer and hope our paths cross again in the future.
+
+Best regards,
+[Your Name]
+"""
 
 ## Outlining Goals
 
 Before you arrive at your internship, it is useful to outline your goals to maximize
 your professional growth and to ensure your experience aligns with your career aspirations.
 
-TKTK
+Some possible categories of goals to set are the following:
+
+- Technical goal (e.g. learning a certain tool or language)
+
+- Career goal (e.g. deciding what you enjoy, like backend vs frontend)
+
+- Networking goal (more details about networking can be found in Section 5: Networking and Social Events)
+
+- Impact goal (e.g. make one contribution to an important product)
+
+- Confidence goal (e.g. get comfortable with Github (more details about Github can be found in Section 4: Technical Background))
+
+It is good to keep a running document of any task completed, bugs fixed, tools learned, metrics, and other similar details. 
+This will be important for resume updates and final reviews throughout your internship and for your future.
 
 ## Team-Matching
 
-TKTK
+Companies have different methods of assigning teams, so it is important to ask around. Some companies let you rank team preferences, which is useful to know if that is the case.
 
 ## Connecting with Manager
 
-As you meet with your manager, it is important to set-up a comunication channel with your them. During your internship, 
+As you meet with your manager, it is important to set-up a comunication channel with your them. 
+During your internship, they will be a very helpful resource if you need guidance.
 
-TKTK
+When you have an offer from a manager, you can email them accepting the offer and introducing yourself.
+You can also ask them for advice on what to review as well. 
+A possible template for an email could the following:
+
+"""
+Hi [Manager],
+
+I’m really excited to join the team this summer as an intern. I wanted to reach out and introduce myself. 
+Please let me know if there’s anything I should do or review before my first day.
+
+Looking forward to working with you,
+[Your Name]
+"""
 
 ## Housing and Commute
 
@@ -67,7 +105,8 @@ Different colleges have different dates where they have summer housing available
 note those dates and find ones that more closely align with the dates of your internship.
 
 3. A convenient way to find housing is Airbnb. There, you can select the exact dates
-you need to rent for the period of your internship. Airbnb houses are usually furnished, which can be helpful when you are renting for a short while.
+you need to rent for the period of your internship. Airbnb houses are usually furnished, 
+which can be helpful when you are renting for a short while.
 
 4. Another option is to look for a summer housing lease. This can be harder to find
 as you are only renting for a specific amount of time.
