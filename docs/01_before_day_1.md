@@ -16,27 +16,29 @@ useful to consider those details to have a better understanding of the company y
 
 To accept the offer, you can email the hiring manager following this template:
 
-"""
-Hi [Name],
-Thank you again for the offer for the [Role] internship position at [Company]. I’m excited to accept the offer and look forward to joining the team this Summer.
+> Hi [Name],
 
-Please let me know if there are any next steps or documents I should complete before my start date.
+> Thank you again for the offer for the [Role] internship position at [Company]. I’m excited to accept the offer and look forward to joining the team this Summer.
 
-Best,
-[Your Name]
-"""
+> Please let me know if there are any next steps or documents I should complete before my start date.
+
+> Best,
+
+> [Your Name]
 
 To reject the offer, you can email the hiring manager following this template:
 
-"""
-Hi [Name],
-Thank you again for offering me the [Role] internship position at [Company]. I truly appreciate the time you and the team spent speaking with me.
 
-After careful consideration, I’ve decided to pursue another opportunity and will not be able to accept the offer. I’m very grateful for the offer and hope our paths cross again in the future.
+> Hi [Name],
 
-Best regards,
-[Your Name]
-"""
+> Thank you again for offering me the [Role] internship position at [Company]. I truly appreciate the time you and the team spent speaking with me.
+
+> After careful consideration, I’ve decided to pursue another opportunity and will not be able to accept the offer. I’m very grateful for the offer and hope our paths cross again in the future.
+
+> Best regards,
+
+> [Your Name]
+
 
 ## Outlining Goals
 
@@ -71,15 +73,14 @@ When you have an offer from a manager, you can email them accepting the offer an
 You can also ask them for advice on what to review as well. 
 A possible template for an email could the following:
 
-"""
-Hi [Manager],
+> Hi [Manager],
 
-I’m really excited to join the team this summer as an intern. I wanted to reach out and introduce myself. 
+> I’m really excited to join the team this summer as an intern. I wanted to reach out and introduce myself. 
 Please let me know if there’s anything I should do or review before my first day.
 
-Looking forward to working with you,
-[Your Name]
-"""
+> Looking forward to working with you,
+
+> [Your Name]
 
 ## Housing and Commute
 
