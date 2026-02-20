@@ -54,6 +54,7 @@ interact, etc.). The specifics of what questions you should address will vary
 depending on your specific project, but you want to give enough detail to
 explain how your system interacts so that other teammates will be able to 
 understand and build on top of your work after your internship. 
+    <a id="diagram_tip"></a>
     - <span style="background-color: yellow;">
 **Pro Tip:**
 </span>

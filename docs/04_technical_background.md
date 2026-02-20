@@ -18,6 +18,7 @@ local testing environment to simulate how consumers and/or internal users
 interact with your code.
 
   - <span style="background-color: yellow;">
+  <a id="codebase_tip"></a>
   **Pro Tip:**
   </span>
   As you experiment with the codebase to see how the different parts interact,
@@ -138,6 +139,7 @@ be an edge case that you hadn't considered or a different approach that might wo
 you should focus on making sure that you understand the changes requested and make a note of them
 so that you don't repeat the mistakes in the future.
 
+<a id="document_tip"></a>
 <span style="background-color: yellow;">
 **Pro Tip:**
 </span>
@@ -152,7 +154,10 @@ can be useful, one of the primary goals of an internship is to learn
 how to navigate a large codebase and tackle complex design challenges,
 so over-relying on AI will circumvent the learning process.
 
-**IMPORTANT:** Most open-source models, such as ChatGPT, Claude, and
+<span style=";background-color: #FFCCCB">
+**WARNING:** 
+</span>
+Most open-source models, such as ChatGPT, Claude, and
 Google Gemini, **should not** be used 
 for company work due to privacy regulations. Instead, you should use
 internal models within your company that are approved by Corporate
