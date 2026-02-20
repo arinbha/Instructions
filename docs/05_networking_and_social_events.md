@@ -1,4 +1,4 @@
-# Networking and Social Events
+# Networking Beyond Your Team
 
 ## Connecting with Other Interns
 

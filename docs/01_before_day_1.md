@@ -1,4 +1,4 @@
-# Before Day 1
+# Before You Start
 
 ## Got the Offer… Now What?
 Now that you have received your first job offer, it is time to think about what to do next. 
@@ -11,8 +11,9 @@ that you ask yourself a couple of questions:
 - Is the salary in line with market expectations for your internship role? Remember to consider role title, company size and location when researching market salary expectations.
 
 Once you have answered those questions, you will have a better idea on whether you want to accept your
-offer or not. If this is your only offer, you might choose to take it no matter your answers. It is still
-useful to consider those details to have a better understanding of the company you will be working for.
+offer or not. To choose between offers, the article <a href="https://joinhandshake.com/blog/students/how-to-decide-between-multiple-job-offers/">How to decide between multiple job offers</a> by Brinton Botkin might help you figure out the best choice for you.
+Even if you only have one job offer, it is still useful to consider those details 
+to have a better understanding of your role and the company you will be working for.
 
 To accept the offer, you can email the hiring manager following this template:
 

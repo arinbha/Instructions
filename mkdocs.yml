@@ -1,11 +1,11 @@
 site_name: A Guide to Navigating a Technical Internship
 nav:
   - Home: index.md
-  - Before Day 1: 01_before_day_1.md
-  - Day 1: 02_day_1.md
+  - Before You Start: 01_before_day_1.md
+  - Onboarding: 02_day_1.md
   - Navigating Office Relationships: 03_navigating_office_relationships.md
   - Technical Background: 04_technical_background.md
-  - Networking & Social Events: 05_networking_and_social_events.md
+  - Networking Beyond Your Team: 05_networking_and_social_events.md
   - Internship Project: 06_internship_project.md
   - Conclusion: 07_conclusion.md
 theme: windmill
