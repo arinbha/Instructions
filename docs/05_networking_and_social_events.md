@@ -8,12 +8,9 @@ to form connections.
 Here are some ways to connect with other interns:
 
 - Join intern group chats (e.g. Slack channels, Discords, GroupMe, etc.)
-
 - Go to intern events and start conversations, even if small
-
 - If the company has intern lunches, go to them. You will get free food, and you get to socialize 
 in an easygoing environment.
-
 - Ask other interns what they’re working on for an easy communication starter
 
 Other great ways to connect with other interns is to offer to get coffee or boba together, possibly after work.
@@ -42,15 +39,14 @@ Most people will say yes, and, if they don't, the worst thing they can do is ign
 Here are some questions you can ask in a coffee chat:
 
 - How did you get into this field?
-
 - What does a typical week look like for you?
-
 - What skills have helped you the most in your role?
-
 - What advice would you give your intern self?
-
 - How do you decide what to work on next?
 
+<span style="background-color: yellow;">
+**Pro Tip:**
+</span>
 Making connections is an important part of an internship. You can learn so much from listening to the experiences and knowledge of others. 
 
 When you network, don't forget to meet people working in different fields: product managers, designers, data scientists, recruiters, program managers, and others. 
@@ -68,16 +64,11 @@ to explore it.
 Some places you can explore are:
 
 - Museums
-
 - Coffee shops
-
 - Restaurants
-
 - Parks
-
 - Free city events
-
-- And so much more.
+- And so much more
 
 You can make goals, like try one new restaurant a week.
 

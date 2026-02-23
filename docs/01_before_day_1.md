@@ -43,19 +43,18 @@ To reject the offer, you can email the hiring manager following this template:
 
 ## Outlining Goals
 
+<span style="background-color: yellow;">
+**Pro Tip:**
+</span>
 Before you arrive at your internship, it is useful to outline your goals to maximize
 your professional growth and to ensure your experience aligns with your career aspirations.
 
 Some possible categories of goals to set are the following:
 
 - Technical goal (e.g. learning a certain tool or language)
-
 - Career goal (e.g. deciding what you enjoy, like backend vs frontend)
-
 - Networking goal (more details about networking can be found in Section 5: Networking and Social Events)
-
 - Impact goal (e.g. make one contribution to an important product)
-
 - Confidence goal (e.g. get comfortable with Github (more details about Github can be found in Section 4: Technical Background))
 
 It is good to keep a running document of any task completed, bugs fixed, tools learned, metrics, and other similar details. 
@@ -65,11 +64,33 @@ This will be important for resume updates and final reviews throughout your inte
 
 Companies have different methods of assigning teams, so it is important to ask around. Some companies let you rank team preferences, which is useful to know if that is the case.
 
+If you are asked to rank teams:
 
+- Look up the product each team works on
+- Try to understand the tech stack they use
+- Ask recruiters what a typical intern project on that team looks like
+- Consider the team size (A smaller team can mean more ownership, but larger teams have more structure.)
 
+If possible, you can talk to other people to gain insight, such as previous inters, full-time engineers, and your future manager.
 
+When choosing a team, here are some things to consider:
 
+- Learning potential (Does this team teach you the skills you want?)
+- Project clarity (Is there a defined intern project?)
+- Mentorship structure (How dedicated is your mentor?)
+- Impact (How can you contribute to the project?)
+- Team culture (Is the team collaborative? Or not?)
 
+It's okay if you don't get your top choice. Many interns discover new interests after joining a team they hadn't initially considered. The purpose of an internship is for you to grow, and growth depends more on your attitude and proactiveness to learning in the team you are placed in.
+
+If your company does not let you choose and you are assigned a team without input, here are some things to ask to make sure you are prepared to work within that team:
+
+- Ask for a short intro call with your manager once assigned
+- Ask for clarification on expected intern projects
+- Ask what technologies you'll be using
+- Ask what success looks like for interns on that team
+
+The more prepared you are, the more in confident you will feel in your professional growth. For more advice on team matching, you can read the article <a href="https://hellointerview.substack.com/p/team-match-survival-guide">Team Match Survival Guide</a> from Hello Interview.
 
 ## Connecting with Manager
 
@@ -124,6 +145,19 @@ as you are only renting for a specific amount of time.
 
 When selecting housing, it is important to consider your commute. It is good to know
 how you plan to reach your work office and how long it will take you to reach it.
+
 For the first day, it is always good to leave an extra buffer of time to arrive in 
 case something unexpected occurs.
+You can even try to do your full commute once before your first day, so you have a better idea of what to expect. Try to leave at the same time that you would on a workday, so you can learn the transportation routes and traffic.
 
+There are many transportation options, and you should pick the one that works best for you. Some options include: 
+
+- Public transportation
+- Biking (needs to check for bike racks)
+- Driving (needs parking availability in housing and office)
+- Walking 
+- Carpooling with other interns
+
+Remember to budget for commute costs, like gas, parking fees, transit passes, polls, and any miscellaneous sitautions. 
+
+A planned/predictable commute helps make the start of your day less stressful and more calming. 
