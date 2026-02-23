@@ -20,6 +20,7 @@ are blocking your progrss and what you are actively doing to resolve them.
 4. **Questions You Have:** As an intern, you are not expected to always know everything, so it's good
 to keep track of questions you want to ask.
 
+<a id="feedback_tip"></a>
 <span style="background-color: yellow;">
 **Pro Tip:**
 </span>
