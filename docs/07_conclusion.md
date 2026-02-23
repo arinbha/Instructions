@@ -24,6 +24,10 @@ develop your professional career. Good luck!
 
 *Additional Resources*
 
+[Guide for Deciding Between Multiple Job Offers](https://joinhandshake.com/blog/students/how-to-decide-between-multiple-job-offers/)
+
+[Guide for Team Matching](https://hellointerview.substack.com/p/team-match-survival-guide)
+
 [Atlassian's Official Guide to Git](https://www.atlassian.com/git/tutorials)
 
 [CS Majors Reddit](https://www.reddit.com/r/csMajors/)
