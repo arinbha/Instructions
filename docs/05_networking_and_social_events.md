@@ -1,4 +1,4 @@
-# Networking Beyond Your Team
+<h1> Networking Beyond Your Team </h1>
 
 ## Connecting with Other Interns
 

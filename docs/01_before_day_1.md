@@ -1,4 +1,4 @@
-# Before You Start
+<h1> Before You Start </h1>
 
 ## Got the Offer… Now What?
 Now that you have received your first job offer, it is time to think about what to do next. 
@@ -112,7 +112,7 @@ Please let me know if there’s anything I should do or review before my first d
 
 ## Housing and Commute
 
-### Housing
+<h3> Housing </h3>
 
 When it comes to housing for an internship, the first thing to consider is whether
 your internship offer includes housing or not.
@@ -141,7 +141,7 @@ which can be helpful when you are renting for a short while.
 as you are only renting for a specific amount of time.
 
 
-### Commute
+<h3> Commute </h3>
 
 When selecting housing, it is important to consider your commute. It is good to know
 how you plan to reach your work office and how long it will take you to reach it.

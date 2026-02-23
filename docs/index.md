@@ -1,11 +1,13 @@
-# Introduction
+<h1> A Guide to Navigating a Technical Internship </h1>
+
+## Introduction
 Welcome, and congrats on your internship offer! While there is a lot of material on the internet
 about how to apply and interview for an internship, we understand that there is less material
 regarding what to do once you've signed the offer. This guide is intended to offer some insights
 into the process afterwards, from securing housing to your first day on the job and working on
 your internship project.
 
-# Why This Guide?
+## Why This Guide?
 For many students, a technical internship is the primary pathway to a full-time job. 
 For example, 38% of the graduating class of 2025 from CMU's School of Computer Science received their 
 full-time offer through a return offer from an internship.
@@ -14,7 +16,7 @@ full-time offer through a return offer from an internship.
   <img src="assets/cpdc.png" alt="Description of the image">
   <figcaption>
     <i>
-    <a href="https://www.cmu.edu/career/outcomes/post-grad-dashboard.html">Statistics from CMU'S Career and Professional Development Center</a>
+    <a href="https://www.cmu.edu/career/outcomes/post-grad-dashboard.html" style="font-size: 12px">Statistics from CMU'S Career and Professional Development Center</a>
     </i>
   </figcaption>
 </div>
@@ -54,7 +56,7 @@ if they deviate from this guide.
   <img src="assets/intro.png" alt="Description of the image">
   <figcaption>
     <i>
-    <a href="https://alexeymk.com/a-brief-guide-to-tech-internships/">The Differences Between the Internship and the Job</a>
+    <a href="https://alexeymk.com/a-brief-guide-to-tech-internships/" style="font-size: 12px">The Differences Between the Internship and the Job</a>
     </i>
   </figcaption>
 </div>

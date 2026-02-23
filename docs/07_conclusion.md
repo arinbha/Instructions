@@ -1,4 +1,4 @@
-# Conclusion
+<h1> Conclusion </h1>
 
 Succesfully navigating you first technical internship is a goal that all students
 hope to accomplish. Our objective with this guide is to provide you with a solid 

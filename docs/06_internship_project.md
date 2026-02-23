@@ -1,4 +1,4 @@
-# Internship Project
+<h1> Internship Project </h1>
 
 ## Project Overview
 Typically, the bulk of your time during your internship will be spent
@@ -72,7 +72,7 @@ include in the above sections.
   <img src="../assets/lucid.png" alt="Description of the image">
   <figcaption>
   <i>
-    <a href="https://www.lucidchart.com/pages/architecture-diagram/">Sample Lucid Chart Outlining System Architecture</a>
+    <a href="https://www.lucidchart.com/pages/architecture-diagram/" style="font-size: 12px">Sample Lucid Chart Outlining System Architecture</a>
     </i>
   </figcaption>
 </div>
