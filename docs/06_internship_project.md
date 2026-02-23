@@ -1,4 +1,4 @@
-# Internship Project
+<h1> Internship Project </h1>
 
 ## Project Overview
 Typically, the bulk of your time during your internship will be spent
@@ -18,7 +18,7 @@ questions regarding things you don't understand.
 should be at by the midpoint and final presentation.
 3. **Define Stretch Goals:** Stretch goals are features you would want to add
 to support the project after hitting the core requirements. It's OK to not have
-all of your stretch goals defined immeidately, but it's good to think about these
+all of your stretch goals defined immediately, but it's good to think about these
 over the course of your internship.
 
 Your intern project is one of the primary factors that will go into
@@ -26,17 +26,17 @@ your overall evaluation for a return offer, so it is *critical* that
 you align with your manager and mentor early on the expectations.  
 
 Your project should be challenging enough that you are learning new technologies and solutions
-for tackling problems, but not so challenging as though you are overwhelemed with
+for tackling problems, but not so challenging as though you are overwhelmed with
 the project expectations.
 
-Throughout the course of your internship, you should schedule progress checkins on
+Throughout the course of your internship, you should schedule progress check-ins on
 a weekly basis to troubleshoot sticky points and make updates to the 
 timeline as needed.
 
 ## Design Document
 Before you start with the implementation, you should create a design document
 outlining the overall layout of your project. This typically will take the 
-form of a design document, where you outine your problem statement and proposed
+form of a design document, where you outline your problem statement and proposed
 implementation.
 
 Your design document should consist of the following sections:
@@ -63,7 +63,7 @@ Use diagrams! They are a great way to show the end-to-end
     to make your diagrams
 4. **Alternative Designs & Pros + Cons:** Often times, there is more than one solution to a problem, and
 you should consider multiple approaches and their tradeoffs before narrowing down to one final design.
-Briefly outline what altneratives you had and why they aren't as effective in your specific use cases.
+Briefly outline what alternatives you had and why they aren't as effective in your specific use cases.
 5. **Appendices:** Include data sources, graphs, and other information that is needed that you did not 
 include in the above sections.
 
@@ -72,7 +72,7 @@ include in the above sections.
   <img src="../assets/lucid.png" alt="Description of the image">
   <figcaption>
   <i>
-    <a href="https://www.lucidchart.com/pages/architecture-diagram/">Sample Lucid Chart Outlining System Architecture</a>
+    <a href="https://www.lucidchart.com/pages/architecture-diagram/" style="font-size: 12px">Sample Lucid Chart Outlining System Architecture</a>
     </i>
   </figcaption>
 </div>
@@ -108,4 +108,4 @@ are more interested in the end-to-end process rather than the low-level system d
 
 One again, **START EARLY**. While you already have a lot of the content prepared, there is still a lot of work
 to create and polish your presentation. We recommend getting this done at least 2 weeks before your presentation date
-so that you have enough time to practice, make edits, and address questions that come up during your run-throughs.
+so that you have enough time to practice, make edits, and address questions that come up during your practice runs.

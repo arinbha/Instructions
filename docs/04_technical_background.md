@@ -1,4 +1,4 @@
-# Technical Background
+<h1> Technical Background </h1>
 
 ## Navigating Enterprise Codebase
 When you work on an enterprise codebase for the first time,
@@ -38,9 +38,9 @@ important for success throughout your internship.
 We present Git as it is one of the easiest systems to become familiar 
 with and is one of the most prevalent across enterprise codebases.
 
-### Basic Commands
+<h3> Basic Commands </h3>
  - ``git commit``: Records a snapshot of your staged changes.
- When commiting, you should write a descriptive message
+ When committing, you should write a descriptive message
  detailing the changes made from the last commit
  - ``git add LIST_OF_FILES``: Makes your working changes in the files listed 
  ready to commit
@@ -66,7 +66,7 @@ A typical workflow should typically contain the following steps:
  then ``git commit``
  3. When satisfied, making them visible using ``git push``
 
-### Branching
+<h3> Branching </h3>
 One of the core features of Git is that you can create separate independent
 paths to work on changes that are independent of one another. When working
 with a large codebase such as during an internship, it is recommended to create a
@@ -85,10 +85,10 @@ separate branch for each independent feature that you are working on.
 
 To create a new branch, use the following command: ``git checkout -b NAME_OF_BRANCH``.
 This spawns a new branch from the commit point that you are already at, and then you 
-can independently add new commits onto this branch without affecting the pre-exisiting
+can independently add new commits onto this branch without affecting the pre-existing
 branches.
 
-### Rebasing
+<h3> Rebasing </h3>
 As you work on several different branches, your coworkers will likely have also made
 changes to the codebase that you will need to design your code around. To avoid having
 problems where the status of your code differs significantly from the existing master branch, 
@@ -115,7 +115,7 @@ onto your master branch
 3. ``git rebase master``: This will update the status of your branch such that your
 changes will sit on top of the existing repository.
 
-### Pull Requests and Code Reviews
+<h3> Pull Requests and Code Reviews </h3>
 Once you are satisfied with the changes that you've made, you are ready to merge them
 into the main repository. However, in a corporate setting, you should **NEVER** attempt
 to push directly into ``master``, as your changes need to be reviewed by someone on your
