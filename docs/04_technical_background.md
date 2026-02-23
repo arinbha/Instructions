@@ -40,7 +40,7 @@ with and is one of the most prevalent across enterprise codebases.
 
 <h3> Basic Commands </h3>
  - ``git commit``: Records a snapshot of your staged changes.
- When commiting, you should write a descriptive message
+ When committing, you should write a descriptive message
  detailing the changes made from the last commit
  - ``git add LIST_OF_FILES``: Makes your working changes in the files listed 
  ready to commit
@@ -85,7 +85,7 @@ separate branch for each independent feature that you are working on.
 
 To create a new branch, use the following command: ``git checkout -b NAME_OF_BRANCH``.
 This spawns a new branch from the commit point that you are already at, and then you 
-can independently add new commits onto this branch without affecting the pre-exisiting
+can independently add new commits onto this branch without affecting the pre-existing
 branches.
 
 <h3> Rebasing </h3>

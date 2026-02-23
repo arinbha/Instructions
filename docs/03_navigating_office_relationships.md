@@ -15,7 +15,7 @@ For a typical 1:1, we recommend the following structure:
 you should still send this via Slack or email.
 2. **Blockers:** What are things that are currently blocking your progress?
 This should not just be a laundry list, but you should give concrete reasons why they
-are blocking your progrss and what you are actively doing to resolve them.
+are blocking your progress and what you are actively doing to resolve them.
 3. **Upcoming Plans:** What do you plan on working on between now and your next meeting?
 4. **Questions You Have:** As an intern, you are not expected to always know everything, so it's good
 to keep track of questions you want to ask.

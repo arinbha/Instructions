@@ -82,7 +82,7 @@ When choosing a team, here are some things to consider:
 - Impact (How can you contribute to the project?)
 - Team culture (Is the team collaborative? Or not?)
 
-It's okay if you don't get your top choice. Many interns discover new interests after joining a team they hadn't initially considered. The purpose of an internship is for you to grow, and growth depends more on your attitude and proactiveness to learning in the team you are placed in.
+It's okay if you don't get your top choice. Many interns discover new interests after joining a team they hadn't initially considered. The purpose of an internship is for you to grow, and growth depends more on your attitude and eagerness to learning in the team you are placed in.
 
 If your company does not let you choose and you are assigned a team without input, here are some things to ask to make sure you are prepared to work within that team:
 
@@ -95,7 +95,7 @@ The more prepared you are, the more in confident you will feel in your professio
 
 ## Connecting with Manager
 
-As you meet with your manager, it is important to set-up a comunication channel with your them. 
+As you meet with your manager, it is important to set-up a communication channel with your them. 
 During your internship, they will be a very helpful resource if you need guidance.
 
 When you have an offer from a manager, you can email them accepting the offer and introducing yourself.
@@ -128,7 +128,7 @@ find adequate housing for your internship.
 you towards resources or other interns who also need housing in case you need a roommate.
 
 2. Look at nearby colleges and universities. Many of them offer summer housing for
-internships. For example, Carnegie Mellon Univeristy offers Summer Intern Housing even if
+internships. For example, Carnegie Mellon University offers Summer Intern Housing even if
 you are not an enrolled CMU student. If you are a student at CMU, you can also apply 
 for normal Summer Housing where you can room with other CMU students staying over the summer.
 Different colleges have different dates where they have summer housing available, so
@@ -159,6 +159,6 @@ There are many transportation options, and you should pick the one that works be
 - Walking 
 - Carpooling with other interns
 
-Remember to budget for commute costs, like gas, parking fees, transit passes, polls, and any miscellaneous sitautions. 
+Remember to budget for commute costs, like gas, parking fees, transit passes, polls, and any miscellaneous situations. 
 
 A planned/predictable commute helps make the start of your day less stressful and more calming. 

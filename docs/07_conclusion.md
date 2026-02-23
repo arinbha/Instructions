@@ -1,6 +1,6 @@
 <h1> Conclusion </h1>
 
-Succesfully navigating you first technical internship is a goal that all students
+Successfully navigating you first technical internship is a goal that all students
 hope to accomplish. Our objective with this guide is to provide you with a solid 
 foundation to achieve your goal. We wish you the best of luck as you continue to 
 develop your professional career. Good luck!
@@ -31,5 +31,5 @@ develop your professional career. Good luck!
 [CS Discord Server](https://discord.gg/eNnztZ3H)
 
 [Design Doc Notes](https://ericclemmons.com/blog/write-design-docs-like-amazon)
-*This was an doc we had access to while working at Amazon. While this is is more detail than required for an intern, it is a great resource if you want to learn more about how to fwritea full design document*
+*This was an doc we had access to while working at Amazon. While this is is more detail than required for an intern, it is a great resource if you want to learn more about how to write a full design document*
 

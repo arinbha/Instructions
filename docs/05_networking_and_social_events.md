@@ -34,7 +34,7 @@ Here is a sample Slack message template that you can use:
 
 > [Your Name]
 
-Most people will say yes, and, if they don't, the worst thing they can do is ignore you. The benefits outweight the negatives. You got this!
+Most people will say yes, and, if they don't, the worst thing they can do is ignore you. The benefits outweigh the negatives. You got this!
 
 Here are some questions you can ask in a coffee chat:
 
