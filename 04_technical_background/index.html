@@ -32,10 +32,11 @@
       var is_top_frame = false;
         
         var pageToc = [
-          {title: "Technical Background", url: "#_top", children: [
-              {title: "Navigating Enterprise Codebase", url: "#navigating-enterprise-codebase" },
-              {title: "Git", url: "#git" },
-              {title: "AI Usage", url: "#ai-usage" },
+          {title: "Navigating Enterprise Codebase", url: "#_top", children: [
+          ]},
+          {title: "Git", url: "#git", children: [
+          ]},
+          {title: "AI Usage", url: "#ai-usage", children: [
           ]},
         ];
 
@@ -83,7 +84,8 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <h1 id="technical-background">Technical Background</h1>
+    <h1> Technical Background </h1>
+
 <h2 id="navigating-enterprise-codebase">Navigating Enterprise Codebase</h2>
 <p>When you work on an enterprise codebase for the first time,
 often times there are many different files and dependencies, and it
@@ -123,10 +125,10 @@ and practices, having a solid understanding of version control is
 important for success throughout your internship.</p>
 <p>We present Git as it is one of the easiest systems to become familiar 
 with and is one of the most prevalent across enterprise codebases.</p>
-<h3 id="basic-commands">Basic Commands</h3>
+<h3> Basic Commands </h3>
 <ul>
 <li><code>git commit</code>: Records a snapshot of your staged changes.
- When commiting, you should write a descriptive message
+ When committing, you should write a descriptive message
  detailing the changes made from the last commit</li>
 <li><code>git add LIST_OF_FILES</code>: Makes your working changes in the files listed 
  ready to commit</li>
@@ -152,7 +154,7 @@ with and is one of the most prevalent across enterprise codebases.</p>
  then <code>git commit</code></li>
 <li>When satisfied, making them visible using <code>git push</code></li>
 </ol>
-<h3 id="branching">Branching</h3>
+<h3> Branching </h3>
 <p>One of the core features of Git is that you can create separate independent
 paths to work on changes that are independent of one another. When working
 with a large codebase such as during an internship, it is recommended to create a
@@ -168,9 +170,9 @@ separate branch for each independent feature that you are working on.</p>
 
 <p>To create a new branch, use the following command: <code>git checkout -b NAME_OF_BRANCH</code>.
 This spawns a new branch from the commit point that you are already at, and then you 
-can independently add new commits onto this branch without affecting the pre-exisiting
+can independently add new commits onto this branch without affecting the pre-existing
 branches.</p>
-<h3 id="rebasing">Rebasing</h3>
+<h3> Rebasing </h3>
 <p>As you work on several different branches, your coworkers will likely have also made
 changes to the codebase that you will need to design your code around. To avoid having
 problems where the status of your code differs significantly from the existing master branch, 
@@ -194,7 +196,7 @@ onto your master branch</li>
 <li><code>git rebase master</code>: This will update the status of your branch such that your
 changes will sit on top of the existing repository.</li>
 </ol>
-<h3 id="pull-requests-and-code-reviews">Pull Requests and Code Reviews</h3>
+<h3> Pull Requests and Code Reviews </h3>
 <p>Once you are satisfied with the changes that you've made, you are ready to merge them
 into the main repository. However, in a corporate setting, you should <strong>NEVER</strong> attempt
 to push directly into <code>master</code>, as your changes need to be reviewed by someone on your
