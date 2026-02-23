@@ -65,6 +65,12 @@ This will be important for resume updates and final reviews throughout your inte
 
 Companies have different methods of assigning teams, so it is important to ask around. Some companies let you rank team preferences, which is useful to know if that is the case.
 
+
+
+
+
+
+
 ## Connecting with Manager
 
 As you meet with your manager, it is important to set-up a comunication channel with your them. 
