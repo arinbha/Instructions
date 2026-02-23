@@ -45,7 +45,10 @@ any anxieties and help you put your best foot forward!
 with practical advice 
 from our experience.
 
-**DISCLAIMER:** This guide is intended for a large audience, and may thus not include specific
+<span style=";background-color: #FFCCCB">
+**DISCLAIMER:** 
+</span>
+This guide is intended for a large audience, and may thus not include specific
 things required at your company. We do not guarantee that following this guide will give you a
 return offer. All interns should consult with their managers for best practices and follow those
 if they deviate from this guide.

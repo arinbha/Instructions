@@ -9,13 +9,17 @@ develop your professional career. Good luck!
 
 *Summary of Pro Tips*  
 
-[Tip 1: Ask for Feedback Proactively](03_navigating_office_relationships.md#feedback_tip)
+[Tip 1: Outline Your Goals Beforehand](01_before_day_1.md#goals-tip)
 
-[Tip 2: Keep a Document for Codebase Summaries](04_technical_background.md#codebase_tip)
+[Tip 2: Keep a Document with Tasks and Accomplishments](02_day_1.md#accomplishments-tip)
 
-[Tip 3: Keep a Document for Code Review Comments](04_technical_background.md#document_tip)
+[Tip 3: Ask for Feedback Proactively](03_navigating_office_relationships.md#feedback_tip)
 
-[Tip 4: Use Lucid Charts for Diagrams](06_internship_project.md#diagram_tip)
+[Tip 4: Keep a Document for Codebase Summaries](04_technical_background.md#codebase_tip)
+
+[Tip 5: Keep a Document for Code Review Comments](04_technical_background.md#document_tip)
+
+[Tip 6: Use Lucid Charts for Diagrams](06_internship_project.md#diagram_tip)
 
 
 *Additional Resources*

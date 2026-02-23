@@ -43,6 +43,7 @@ To reject the offer, you can email the hiring manager following this template:
 
 ## Outlining Goals
 
+<a id="goals-tip"></a>
 <span style="background-color: yellow;">
 **Pro Tip:**
 </span>
