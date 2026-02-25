@@ -48,7 +48,7 @@ you should aim to take part in team socials or other bonding events throughout t
 
 ## Asking for Help
 Over the course of your project, you will also likely encounter moments where you are stuck and are unsure 
-of how to proceed. While this is perfectly normal, the important thing is to get yourself stuck ASAP and not 
+of how to proceed. While this is perfectly normal, the important thing is to get yourself unstuck ASAP and not 
 sit around twiddling your thumbs until someone notices and offers to help. Be proactive.
 
 When confronted with a problem, you should take the following steps to resolve it:
