@@ -43,7 +43,7 @@ give you an excuse to skip these meetings. Be on time and don't be distracted.
 2. **Ask Appropriate Questions:** Even though you may not have much to personally contribute, you should still be
 an active listener and take interest in what the rest of the team is working on. Don't be afraid to ask questions
 to clarify concepts as long as you do so in a respectful manner.
-3. **Take part in social events:** Throughout your internship, you are a member of the team as well. To that end,
+3. **Take Part in Social Events:** Throughout your internship, you are a member of the team as well. To that end,
 you should aim to take part in team socials or other bonding events throughout the summer.
 
 ## Asking for Help
