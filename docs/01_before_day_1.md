@@ -4,7 +4,7 @@
 Now that you have received your first job offer, it is time to think about what to do next. 
 
 First, you must consider whether you want to accept the offer or not. To do this, we recommend
-that you ask yourself a couple of questions: 
+that you ask yourself the following questions: 
 
 - How is company culture? Does the company culture align with your personal and professional values?
 
@@ -52,11 +52,11 @@ your professional growth and to ensure your experience aligns with your career a
 
 Some possible categories of goals to set are the following:
 
-- Technical goal (e.g. learning a certain tool or language)
-- Career goal (e.g. deciding what you enjoy, like backend vs frontend)
-- Networking goal (more details about networking can be found in Section 5: Networking and Social Events)
-- Impact goal (e.g. make one contribution to an important product)
-- Confidence goal (e.g. get comfortable with Github (more details about Github can be found in Section 4: Technical Background))
+- Technical Goals (e.g. learning a certain tool or language)
+- Career Goals (e.g. deciding what you enjoy, like backend vs frontend)
+- Networking Goals (more details about networking can be found in Section 5: Networking and Social Events)
+- Impact Goals (e.g. make one contribution to an important product)
+- Confidence Goals (e.g. get comfortable with Github (more details about Github can be found in Section 4: Technical Background))
 
 It is good to keep a running document of any task completed, bugs fixed, tools learned, metrics, and other similar details. 
 This will be important for resume updates and final reviews throughout your internship and for your future.
@@ -76,11 +76,11 @@ If possible, you can talk to other people to gain insight, such as previous inte
 
 When choosing a team, here are some things to consider:
 
-- Learning potential (Does this team teach you the skills you want?)
-- Project clarity (Is there a defined intern project?)
-- Mentorship structure (How dedicated is your mentor?)
+- Learning Potential (Does this team teach you the skills you want?)
+- Project Clarity (Is there a defined intern project?)
+- Mentorship Structure (How dedicated is your mentor?)
 - Impact (How can you contribute to the project?)
-- Team culture (Is the team collaborative? Or not?)
+- Team Culture (Is the team collaborative? Or not?)
 
 It's okay if you don't get your top choice. Many interns discover new interests after joining a team they hadn't initially considered. The purpose of an internship is for you to grow, and growth depends more on your attitude and eagerness to learning in the team you are placed in.
 
